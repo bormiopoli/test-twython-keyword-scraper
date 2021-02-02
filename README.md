@@ -1,19 +1,9 @@
-# Sytac Python Exercise #
-
-This development test is used as part of Sytac selection for Python developers. You are requested to develop a simple application that covers all the requirements listed below. To have an indication of the criteria that will be used to judge your submission, all the following are considered as metrics of good development:
-
-+ Correctness of the implementation
-+ Decent test coverage
-+ Code cleanliness
-+ Efficiency of the solution
-+ Careful choice of tools and data formats
-+ Use of production-ready approaches
-
-While no specific time limit is mandated to complete the exercise, you will be asked to provide your code within a given deadline from Sytac HR. You are free to choose any library.
+# Python tweets by keywords using Twython #
+An implementation of Twython library that retrieves tweets with specific keywords and order them per timestamp after grouping them by user ID 
 
 ## Task ##
 
-We would like you to write code that will cover the functionality explained below and provide us with the source, instructions to build and run the appliocation  as well as a sample output of an execution:
+This small program covers the functionality explained below and provide us with the source, instructions to build and run the appliocation  as well as a sample output of an execution:
 
 + Connect to the [Twitter Streaming API](https://dev.twitter.com/streaming/overview)
     * Use the following values:
