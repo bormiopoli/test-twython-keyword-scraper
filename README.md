@@ -28,17 +28,6 @@ This small program covers the functionality explained below and provide us with 
 + All the above infomation is provided in either SDTOUT or a log file
 + You are free to choose the output format, provided that it makes it easy to parse and process by a machine
 
-### __Bonus points for:__ ###
-
-+ Keep track of messages per second statistics across multiple runs of the application
-+ The application can run as a Docker container
-
-## Delivery ##
-
-You are assigned to you own private repository. Please use your own branch and do not commit on master.
-When the assignment is finished, please create a pull request on the master of this repository, and your contact person will be notified automatically. 
-
-
 ## How to run it ##
 
 The file main.py requires the definition of the credentials (consumer key, consumer token, access token and access secret) inside the file "twitter_credentials.json", located inside the folder "modules".
